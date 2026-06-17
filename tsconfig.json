@@ -11,8 +11,8 @@
 		"forceConsistentCasingInFileNames": true,
 		"importHelpers": true,
 		"incremental": true,
-		"lib": ["ESNext"],
-		"module": "nodenext",
+		"lib": ["ES2023"],
+		"module": "node20",
 		"moduleResolution": "nodenext",
 		"newLine": "lf",
 		"noEmitHelpers": true,
@@ -27,7 +27,7 @@
 		"resolveJsonModule": true,
 		"sourceMap": true,
 		"strict": true,
-		"target": "esnext",
+		"target": "es2023",
 		"useDefineForClassFields": true
 	}
 }
