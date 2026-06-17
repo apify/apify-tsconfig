@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.0 - 2026-06-17
+
+### Features
+- Modernize tsconfig to >= node 20 (#5)
+
+
 ## 0.1.2 - 2026-04-15
 
 ### Chores
